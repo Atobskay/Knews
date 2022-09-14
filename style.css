@@ -1,0 +1,135 @@
+h1{
+    color: black;
+    
+
+}
+.figure{
+    display: block;
+}
+.firstimg{
+    width: auto;
+    height: 200px;
+    align-self: start;
+    box-shadow: 0 12px 12px rgba(0, 0, 0, 0.5);
+    
+}
+.firstdiv{
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    
+}
+
+body{
+    
+    font-size: 15px;
+}
+
+.form{
+    font-family:Arial, Helvetica, sans-serif;
+    outline: green;
+}
+.p-request{
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.p-assertion{
+    font-size: 15px;
+    color: gray;
+}
+#input{
+    width: 255px;
+    height: 50px;
+    font-size: 16px;
+    border-radius: 3px;
+    border-style: thick;
+    border-color: gray;
+    border-width: 2px;
+    margin: 10px 10px 5px 5px;
+    padding: 0px 10px 10px 5px; 
+    background-color: white;
+}
+
+.button{
+    margin: 5px 10px 10px 5px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 3px;
+    border-style: thick;
+    border-color: gray;
+    border-width: 2px;
+    color: white;
+    background-color: blue;
+}
+.p-text{
+    margin-bottom: 2px;
+    margin-left: 5px;
+}
+.input2{
+    margin: 0px 10px 5px 5px;
+    width: 255px;
+    height: 30px;
+    outline: green;
+}
+textarea{
+    color: #000000;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 10px 5px 5px;
+    outline: none;
+}
+#notify{
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.button-two{
+    width: auto;
+    height: 50px;
+    background-color: blue;
+    border: gray 2px solid;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+}
+button:hover{
+    background-color: rgba(0, 0, 255, 0.7);
+    transform: scale(0.95);
+
+}
+.anchor{
+    
+    text-decoration: none;
+    color: blue;
+    
+}
+.anchor-two{
+    
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    
+}
+a:hover{
+    color: red;
+}
+footer{
+    font-size: 20px;
+    
+    text-align: center;
+    margin-top: auto;
+}
+.italics{
+    text-align: end;
+    font-family: 'Times New Roman', Times, serif;
+}
+.align{
+    text-align: center;
+    margin-top: 0;
+    
+}
+.p-footer{
+    margin-top: 0px;
+    
+}
+
